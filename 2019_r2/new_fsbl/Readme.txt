@@ -1,0 +1,1 @@
+It contains hdl 2019_r2 (2019.1) files .hdf and .bit only, fsbl.elf (taken from card) and u-boot_zynq.elf has been taken from sd_card image of 2023_r2 Patch 1 (2019.1)
